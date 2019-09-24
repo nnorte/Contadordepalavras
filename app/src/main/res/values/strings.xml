@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contador de palavras</string>
+    <string name="descLog">logo</string>
+    <string name="App_titulo">Contador de Palavras</string>
+    <string name="App_palavra">Digite uma mensagem aqui</string>
+    <string name="App_calcular">Calcular Palavras</string>
+    <string name="num_palavra">Numero de palavras</string>
+</resources>
